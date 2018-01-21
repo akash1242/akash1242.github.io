@@ -3,3 +3,10 @@ body{
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+.parallax{
+    background-image: url(Action-Changes-Things-Acronym.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
